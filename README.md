@@ -1,6 +1,13 @@
 # Specification-Driven Development (SDD) Plugin for Claude Code
 
-A Claude Code plugin that provides a comprehensive methodology for systematic software development through research, planning, and implementation phases. This plugin ensures consistent, high-quality development practices with intelligent context management and automated workflows.
+A [Claude Code plugin](https://docs.claude.com/en/docs/claude-code/plugins) that provides a comprehensive methodology for systematic software development through research, planning, and implementation phases. This plugin ensures consistent, high-quality development practices with intelligent context management and automated workflows.
+
+This software engineering methodology is based on:
+
+1. [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
+2. [Advanced Context Engineering for Agents](https://youtu.be/IS_y40zY-hc?si=5u3ajN073rCu7f88)
+
+An example of this process being used: [video](https://www.youtube.com/watch?v=zNZs19fIDHk) and [repo](https://github.com/ai-that-works/ai-that-works/tree/main/2025-10-14-no-vibes-allowed)
 
 ## Installation
 
