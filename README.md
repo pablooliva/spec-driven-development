@@ -13,7 +13,7 @@ Install the plugin using Claude Code's plugin manager:
 Or install from a marketplace:
 
 ```bash
-/plugin install pablo-oliva/spec-driven-development
+/plugin install pablooliva/spec-driven-development
 ```
 
 ## Overview
