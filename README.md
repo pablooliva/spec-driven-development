@@ -11,17 +11,15 @@ An example of this process being used: [video](https://www.youtube.com/watch?v=z
 
 ## Installation
 
-Install the plugin using Claude Code's plugin manager:
-
-```bash
-/plugin install spec-driven-development
-```
-
-Or install from a marketplace:
+Install from a marketplace:
 
 ```bash
 /plugin install pablooliva/spec-driven-development
 ```
+
+This will install the plugin system-wide, making it available in all your projects.
+
+Or alternatively, install the plugin at the project level by following the instructions in [plugin-installation-scope.md](plugin-installation-scope.md).
 
 ## Overview
 
