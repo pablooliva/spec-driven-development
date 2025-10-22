@@ -1,6 +1,10 @@
 # Specification-Driven Development (SDD) Plugin for Claude Code
 
-A [Claude Code plugin](https://docs.claude.com/en/docs/claude-code/plugins) that provides a comprehensive methodology for systematic software development through research, planning, and implementation phases. This plugin ensures consistent, high-quality development practices with intelligent context management and automated workflows.
+A [Claude Code plugin](https://docs.claude.com/en/docs/claude-code/plugins) that provides a comprehensive methodology for systematic software development through research, planning, and implementation phases.
+
+## Spec-Driven Development + Context Engineering
+
+This plugin ensures consistent, high-quality development practices with intelligent context management, manual context compaction, and automated workflows, leveraging Claude's strengths while minimizing its weaknesses.
 
 This software engineering methodology is based on:
 
