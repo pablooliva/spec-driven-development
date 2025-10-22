@@ -9,6 +9,10 @@ This software engineering methodology is based on:
 
 An example of this process being used: [video](https://www.youtube.com/watch?v=zNZs19fIDHk) and [repo](https://github.com/ai-that-works/ai-that-works/tree/main/2025-10-14-no-vibes-allowed)
 
+## Prerequisites
+
+- **Python 3.9 or higher** - Required for the plugin's SubagentStop hook, which uses modern Python type hints (`dict[str, Any]`) introduced in Python 3.9
+
 ## Installation
 
 Install from a marketplace:
@@ -55,7 +59,7 @@ PHASE START          CONTEXT ~40%           SAVE WORK          CLEAR SESSION
                                                                 FRESH START
                                                                      │
                                                                      ▼
-                                                               [/sdd-continue]
+                                                             [/sdd-continue]
                                                                      │
                                               ┌──────────────────────┘
                                               │ Reads both files
