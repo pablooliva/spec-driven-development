@@ -311,25 +311,15 @@ The `/sdd-commit` command ensures:
 
 The plugin includes an automatic subagent logging hook that tracks all subagent interactions for debugging and progress monitoring.
 
-### Settings
-
-The plugin respects your Claude Code settings while providing additional safeguards for destructive operations during development.
-
 ## Version History
 
 - **1.0.0** - Initial release with complete SDD methodology
-
-## Author
-
-**Pablo Oliva**
-Email: <p.o@pablooliva.de>
 
 ## Support
 
 For issues, feature requests, or questions:
 
 - Create an issue in the plugin repository
-- Contact the author directly
 - Check the [Claude Code documentation](https://docs.claude.com/en/docs/claude-code/plugins)
 
 ## License
@@ -338,4 +328,4 @@ This plugin is provided as-is for use with Claude Code. See the repository for l
 
 ---
 
-**Built for Claude Code** - Enhancing AI-assisted development with systematic methodology
+**Built for Claude Code** - Enhancing AI-assisted development with a specification-driven systematic methodology.
